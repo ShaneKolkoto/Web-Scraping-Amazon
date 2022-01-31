@@ -1,0 +1,15 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "web-scraping amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Morne Kolkoto <shanekolkoto@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "jsdom": "^19.0.0"
+  }
+}
